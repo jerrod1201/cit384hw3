@@ -6,4 +6,4 @@ Repo for HW3 - HTML
 
 ## Live Site
 
-https://jonathanmacmillan446-web.github.io/CIT-384-HW-3/
+https://jerrod1201.github.io/cit384hw3/
